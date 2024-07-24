@@ -1,1 +1,3 @@
 # zomato_sql
+##. Through detailed analysis of Zomato Excel file raw data encompassing country and currency metrics and a  comprehensive calendar table which  includes essential elements such as Year, Month Number, Full Month Name, and Quarter (divided into Q1, Q2, Q3, and Q4). Additionally, the table features Year-Month representation (formatted as YYYY-MMM), precise Weekday Numbering and Names, as well as delineation of Financial Months (with April designated as FM1, May as FM2, continuing through to March as FM12). Moreover, Financial Quarters are defined based on these Financial Months, categorized as FQ-1, FQ-2, and so forth, ensuring clarity and utility in financial analysis.
+### The analysis can also be inferred from the provided KPIs.
